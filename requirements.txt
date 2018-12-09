@@ -11,7 +11,7 @@ colorama==0.3.9
 csvkit==1.0.3
 dbfread==2.0.7
 defusedxml==0.5.0
-Django==2.1.1
+Django>=2.1.2
 django-polls==0.1
 et-xmlfile==1.0.1
 future==0.16.0
